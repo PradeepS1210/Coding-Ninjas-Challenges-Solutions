@@ -1,6 +1,6 @@
 # Coding-Ninjas-Challenges-Solutions
 
-This repository contains solutions to coding challenges from Coding Ninjas, aimed at helping aspiring software engineers prepare for technical interviews with leading MNCs like Google, IBM, Paytm, TCS, Infosys, and many more.
+This repository contains solutions to coding challenges from Coding Ninjas, designed to assist aspiring software engineers in preparing for technical interviews at major MNCs such as Google, IBM, Paytm, TCS, Infosys, and many more.
 
 ## Features
 
